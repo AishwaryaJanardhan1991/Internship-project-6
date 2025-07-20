@@ -63,7 +63,7 @@ The dataset includes various customer attributes:
 - *Education Influence*: Higher education correlates with a greater likelihood of purchasing a bike.
 # Files Included
 - Excel Project xlxs format- Pivot tables and raw analysis
-- pdf` files - insights from data
+- pdf files - insights from data
 - README.md - This documentation
 # Tools Used 
 - Microsoft Excel (Pivot Tables, Charts, Slicers, Dashboard)
